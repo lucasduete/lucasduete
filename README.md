@@ -1,7 +1,7 @@
 # Lucas Duete -- @lucasduete
 
 <p align="center">
-  <a href="https://lucasduete.me">Website</a> •
+  <a href="https://lucasduete.dev">Website</a> •
   <a href="https://twitter.com/lucasduete">Twitter</a> •
   <a href="https://www.linkedin.com/in/lucasduete">Linkedin</a>
 </p>
