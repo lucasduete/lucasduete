@@ -9,9 +9,11 @@
 Hello everyone! I'm a Brazilian software engenieer. Currently I live in João Pessoa, I like a lot to play videogames (mainly RPGs). 
 
 
-- 🔭 I’m currently working at Sogo
-- 🌱 I’m currently learning Go
+<div>
+  <a href="https://github.com/lucasduete"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasduete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+<!--
 <!--
 **lucasduete/lucasduete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
